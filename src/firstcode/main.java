@@ -2,7 +2,7 @@ package firstcode;
 
 class main {
     public static void main(String[] args) {
-        int[] foo = {0, 1, 2, 3, 4};
+        int[] foo = {0, 1, 2, 3, 5};
 
         int[] par = new int[100];
         for(int i = 0; i < 100; i++){
